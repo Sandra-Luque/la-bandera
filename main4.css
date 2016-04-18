@@ -1,0 +1,22 @@
+/*Escribe aqui tu CSS */
+
+.caja-1{
+	background: #FFFF00;
+}
+
+.caja-2{
+	background: #FA5858;
+}
+
+.caja-3{
+	background: #FFFF00;
+}
+
+p{
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin: 5px;
+	display: inline;
+}
+
